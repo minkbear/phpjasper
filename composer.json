@@ -1,5 +1,5 @@
 {
-  "name": "geekcom/phpjasper",
+  "name": "minkbear/phpjasper",
   "description": "A PHP report generator",
   "license": "MIT",
   "keywords": [
@@ -9,9 +9,7 @@
   ],
   "authors": [
     {
-      "name": "Daniel Rodrigues Lima",
-      "email": "geekcom@php.net",
-      "role": "lead"
+      "name": "minkbear"
     }
   ],
   "minimum-stability": "stable",
